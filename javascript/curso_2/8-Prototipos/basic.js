@@ -83,3 +83,5 @@ const perro = new Perro('Mafi','Hembra','Mediano'),
 console.log(perro,perro1);
 perro.sonido();
 perro.saludar();
+
+
